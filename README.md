@@ -1,4 +1,5 @@
 ### 🦒 Hola Mundo! 🦒
+"A positive attitude, strong work ethic and an ability to learn fast" 
 
 - 🔭 I’m currently working on ...  My portfolio projects 
 - 🌱 I’m currently learning ...    Node, Express and MongoDB
