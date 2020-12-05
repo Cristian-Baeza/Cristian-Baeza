@@ -1,6 +1,10 @@
 ### 🌎 Hola Mundo! 
  
-- 🦒 About me ...  A positive attitude, strong work ethic, sense of humor and an ability to learn fast
+- 🦒 About me ...  Originally from Mexico City, I am currently a full time student doing my last semester at the University of Utah and an intern at Badger Maps.                      Beyond grateful to have been awarded a scholarship to Code Platoon's full stack coding bootcamp starting in Feb 2021. 
+                   ```js 
+                   const me = 'A positive attitude, strong work ethic, sense of humor and an ability to learn fast';
+                   ```
+
 - 🔭 I’m currently working on ...  My portfolio website.
 - 🌱 I’m currently learning ...    Node, Express and MongoDB
 - 🤔 I’m looking for help with ... Redux/Thunk. I curse thee. Dishonor on you. Dishonor on your cow.
