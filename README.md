@@ -1,12 +1,12 @@
 ### 🌎 Hola Mundo! 
  
-- 🦒 About me ...  Originally from Mexico City, I am currently a full time student doing my last semester at the University of Utah and working at a Badger Maps                       (Saas company) as a sales rep. <br/>
+- 🦒 About me ...  Originally from Mexico City, I am a recent graduate from the University of Utah and currently attending Code Platoon Coding Bootcamp<br/>
                    Always striving to keep a positive attitude, strong work ethic and a sense of humor.
                    
 - 🔭 I’m currently working on ...  My portfolio projects.
-- 🌱 I’m currently learning ...    Node, Express and MongoDB
+- 🌱 I’m currently learning ...    Node, Express, MongoDB, Python, Redux
 - 🤔 I’m looking for help with ... Redux/Thunk. I curse thee. Dishonor on you. Dishonor on your cow.
-- 💬 Ask me about ...              React-Native, Mexico, basketball, jiujitsu  
+- 💬 Ask me about ...              React-Native, basketball, jiujitsu  
 - ⚡ Fun fact: ...                  Mi familia es de Guadalajara pero crecí en la Ciudad de México & I am a Marine Corps Vet 
 
 🦒 [Personal Website](https://giraffecoder.com) <br/>
