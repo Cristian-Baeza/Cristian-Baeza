@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...    Node, Express, MongoDB, Python, Redux
 - 🤔 I’m looking for help with ... Redux/Thunk. I curse thee. Dishonor on you. Dishonor on your cow.
 - 💬 Ask me about ...              React-Native, basketball, jiujitsu  
-- ⚡ Fun fact: ...                  Mi familia es de Guadalajara pero crecí en la Ciudad de México & I am a Marine Corps Vet 
+- ⚡ Fun fact: ...                  Mi familia es de Guadalajara pero crecí en la Ciudad de México and I am a Marine Corps Vet 
 
 🦒 [Personal Website](https://giraffecoder.com) <br/>
 
