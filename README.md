@@ -4,7 +4,7 @@
                    Always striving to keep a positive attitude, strong work ethic and a sense of humor.
                    
 - 🔭 I’m currently working on ...  My portfolio projects.
-- 🌱 I’m currently learning ...    Node, Express, MongoDB, Python, Redux
+- 🌱 I’m currently learning ...    Python, OOP, SQL
 - 🤔 I’m looking for help with ... Redux/Thunk. I curse thee. Dishonor on you. Dishonor on your cow.
 - 💬 Ask me about ...              React-Native, basketball, jiujitsu  
 - ⚡ Fun fact: ...                  Mi familia es de Guadalajara pero crecí en la Ciudad de México and I am a Marine Corps Vet 
