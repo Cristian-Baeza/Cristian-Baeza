@@ -1,7 +1,6 @@
 ### 🌎 Hola Mundo! 
  
-- 🦒 About me ...  Originally from Mexico City, I am a recent graduate from the University of Utah and currently attending Code Platoon Coding Bootcamp<br/>
-                   Always striving to keep a positive attitude, strong work ethic and a sense of humor.
+- 🦒 About me ...  Originally from 🇲🇽 Mexico City, I am a Marine Corps veteran and a recent graduate from Code Platoon's full-stack software engineer program. Currently pursuing my love for software development, and teaching. Always striving to keep a positive attitude, strong work ethic and a sense of humor.
                    
 - 🔭 I’m currently working on ...  Group Project! D8Nite app
 - 🌱 I’m currently learning ...    Python, OOP, SQL, Vue.js
