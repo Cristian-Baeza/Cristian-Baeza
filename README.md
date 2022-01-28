@@ -3,7 +3,7 @@
 - 🦒 About me ...  Originally from 🇲🇽 Mexico City, I am currently an apprentice software engineer at 8th Light, a Marine Corps veteran and graduate student at BU. Currently pursuing my love for software development and teaching jiujitsu. Always striving to keep a positive attitude, strong work ethic and a sense of humor.
                    
 - 🌱 I’m currently learning  ...   Work: [Rails, Unity, C#], Personal: [Vue, Docker, AWS RDS]
-- 🤔 I’m looking for help with ... AWS/Dcoker/Redux
+- 🤔 I’m looking for help with ... AWS/Terraform/Kubernetes
 - 💬 Ask me about ...              Mexico, basketball, jiujitsu  
 - ⚡ Fun fact: ...                  Mi familia es de Guadalajara pero crecí en la Ciudad de México and I am a Marine Corps Vet 
 
