@@ -1,6 +1,6 @@
 ### 🌎 Hola Mundo! 
  
-- 🦒 About me ...  Originally from 🇲🇽 Mexico City, I am currently a software engineer at 8th Light. Always striving to keep a positive attitude and a sense of humor.
+- 🦒 About me ...  Originally from 🇲🇽 Mexico City, I am currently a software engineer. Always striving to keep a positive attitude and a sense of humor.
                    
 - 🌱 I’m currently learning  ...   Work: [Rails, Unity, C#], Personal: [Vue, Docker, AWS RDS]
 - 🤔 I’m looking for help with ... AWS/Terraform/Kubernetes
